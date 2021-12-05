@@ -1,0 +1,147 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employee_name": "Tiger Nixon",
+      "department": "Technology"
+    },
+    {
+      "id": 3,
+      "employee_name": "Garrett Winters",
+      "department": "Finance"
+    },
+    {
+      "id": 4,
+      "employee_name": "Ashton Cox",
+      "department": "Finance"
+    },
+    {
+      "id": 5,
+      "employee_name": "Cedric Kelly",
+      "department": "Finance"
+    },
+    {
+      "id": 6,
+      "employee_name": "Cedric Kelly",
+      "department": "HR"
+    },
+    {
+      "id": 7,
+      "employee_name": "Airi Satou",
+      "department": "HR"
+    },
+    {
+      "id": 8,
+      "employee_name": "Brielle Williamson",
+      "department": "Technology"
+    },
+    {
+      "id": 9,
+      "employee_name": "Herrod Chandler",
+      "department": "HR"
+    },
+    {
+      "id": 10,
+      "employee_name": "Herrod Chandler",
+      "department": "Technology"
+    },
+    {
+      "id": 11,
+      "employee_name": "Jena Gaines",
+      "department": "Finance"
+    },
+    {
+      "id": 12,
+      "employee_name": "Quinn Flynn",
+      "department": "Technology"
+    },
+    {
+      "id": 13,
+      "employee_name": "Charde Marshall",
+      "department": "Finance"
+    },
+    {
+      "id": 14,
+      "employee_name": "Haley Kennedy",
+      "department": "Technology"
+    },
+    {
+      "id": 15,
+      "employee_name": "Tatyana Fitzpatrick",
+      "department": "Technology"
+    },
+    {
+      "id": 16,
+      "employee_name": "Michael Silva",
+      "department": "Technology"
+    },
+    {
+      "id": 18,
+      "employee_name": "Gloria Little",
+      "department": "Finance"
+    },
+    {
+      "id": 19,
+      "employee_name": "Bradley Greer",
+      "department": "HR"
+    },
+    {
+      "id": 20,
+      "employee_name": "Dai Rios",
+      "department": "Technology"
+    },
+    {
+      "id": 21,
+      "employee_name": "Jenette Caldwell",
+      "department": "Technology"
+    },
+    {
+      "id": 22,
+      "employee_name": "Yuri Berry",
+      "department": "Finance"
+    },
+    {
+      "id": 23,
+      "employee_name": "Caesar Vance",
+      "department": "Technology"
+    },
+    {
+      "id": 24,
+      "employee_name": "Doris Wilder",
+      "department": "Technology"
+    },
+    {
+      "employee_name": "Adam Gilchrist",
+      "department": "Finance",
+      "id": 25
+    },
+    {
+      "employee_name": "Chris Gayle",
+      "department": "Marketing",
+      "id": 26
+    },
+    {
+      "employee_name": "Ben Stokes",
+      "department": "Content Writer",
+      "id": 28
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "department_name": "HR"
+    },
+    {
+      "id": 3,
+      "department_name": "Technology"
+    },
+    {
+      "department_name": "Marketing",
+      "id": 4
+    },
+    {
+      "department_name": "Content Writer",
+      "id": 5
+    }
+  ]
+}
